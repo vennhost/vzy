@@ -58,3 +58,11 @@ p {
     color: #194246 !important;
     font-family: 'Inter', sans-serif !important;
   }
+
+  .footer {
+      background-color: #DDA14F;
+      color: white;
+      font-family: 'Inter', sans-serif !important;
+      font-weight: 400;
+
+  }
